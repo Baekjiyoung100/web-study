@@ -5,7 +5,7 @@ body {
 #container {
     width: 500px;
     height: 300px;
-    margin-top: 300px;
+    margin-top: 250px;
     text-align: center;
 }
 
@@ -30,10 +30,6 @@ body {
     border-bottom: 1px solid #eee !important;
 }
 
-.badge {
-    background-color: rgb(52, 134, 242);
-    border-radius: 20px;
-}
 #input-group {
     margin-top: 10px;
 }
